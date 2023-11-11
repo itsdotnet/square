@@ -10,12 +10,23 @@ Include a brief description of the problem that was given to you.
 
 ## Solution
 
-Describe your solution and the approach you took to solve the problem. Include any key algorithms or techniques you used.
-
+Its very simple problem thats why i wrote code in 3 languages, C#, C, Python. Logics are same.
 ## Usage
 
-If applicable, provide instructions on how to use your code. This could include installation steps, dependencies, and any other relevant information.
+Download as zip or clone repository and run code.
 
 ```bash
+#dotnet
 cd square
 dotnet run
+
+```bash
+#C
+cd square
+gcc solution.c
+./a.out
+
+```bash
+#python
+cd square
+python solution.py
