@@ -19,14 +19,17 @@ Download as zip or clone repository and run code.
 #dotnet
 cd square
 dotnet run
+```
 
 ```bash
 #C
 cd square
 gcc solution.c
 ./a.out
+```
 
 ```bash
 #python
 cd square
 python solution.py
+```
