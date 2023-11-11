@@ -20,7 +20,9 @@ switch (shape)
         Console.Write("Input three sides of triangle (3 4 5): ");
         var sides = Console.ReadLine().Split().Select(x => double.Parse(x)).ToList();
         var triangleArea = AreaCalculator.TriArea(sides[0], sides[1], sides[2]);
-        if(sides[0] == sides[1] || sides[2] == sides[0] || sides[1] == sides[2])
+        if(triangleArea == 0)
+            Console.WriteLine("You entered wrong information!");
+        else if(sides[0] == sides[1] || sides[2] == sides[0] || sides[1] == sides[2])
             Console.WriteLine($"Triangle area equals : {triangleArea} and its right-angled triangle.");
         else
             Console.WriteLine($"Triangle area equals : {triangleArea}");
