@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "src\Square\Square.csproj", "{138EAC08-6754-4D20-BE46-231C4B7A6A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaTest", "Test\AreaTest\AreaTest.csproj", "{71777C8D-7AA8-4A57-A23C-F0E32821D3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138EAC08-6754-4D20-BE46-231C4B7A6A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138EAC08-6754-4D20-BE46-231C4B7A6A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138EAC08-6754-4D20-BE46-231C4B7A6A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138EAC08-6754-4D20-BE46-231C4B7A6A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71777C8D-7AA8-4A57-A23C-F0E32821D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71777C8D-7AA8-4A57-A23C-F0E32821D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71777C8D-7AA8-4A57-A23C-F0E32821D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71777C8D-7AA8-4A57-A23C-F0E32821D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
