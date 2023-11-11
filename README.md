@@ -1,6 +1,6 @@
 # Square
 
-This repository contains the solution for the coding problem provided as part of a job application. The goal was to implement a solution related to squares (please specify the problem statement if allowed).
+This repository contains the solution for the coding problem provided as part of a job application. The goal was to implement a solution.
 
 ## Solution
 
