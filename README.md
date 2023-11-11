@@ -8,6 +8,6 @@ Download as zip or clone repository and run code.
 
 ```bash
 #dotnet
-cd square
+cd square/src/Square/
 dotnet run
 ```
